@@ -3,7 +3,7 @@ class Incarnate < Formula
   homepage "https://github.com/ethanmsl/incarnate"
   url "https://github.com/ethanmsl/incarnate/releases/download/v0.2.1/incarnate"
   version "0.2.1"
-  sha256 "9b37e20b2255764bebc0f02c8847445ed51510da02f4df9b34d08bf9199b631d"
+  sha256 "64d6e78594721e8abc344895598f1d9f18d9ca89bfe10aa4bf0382d69afeb536"
 
   def install
     bin.install "incarnate"
