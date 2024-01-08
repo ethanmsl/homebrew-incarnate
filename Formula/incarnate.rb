@@ -1,9 +1,9 @@
 class Incarnate < Formula
   desc "Interactive Skeleton (repo) Enflesher"
   homepage "https://github.com/ethanmsl/incarnate"
-  url "https://github.com/ethanmsl/incarnate/releases/download/0.2.7/incarnate-aarch64-apple-darwin.tar.gz"
-  sha256 "7cfb880c6db9d8af6ee3d115564caa2d288b39ac492ab82c0dffee482a029e2e"
-  version "0.2.7"
+  url "https://github.com/ethanmsl/incarnate/releases/download/0.2.8/incarnate-aarch64-apple-darwin.tar.gz"
+  sha256 "0289dfb2d48f934a8998d106e481c863f5aa56f3823b17f23b4ee5896c5af1ce"
+  version "0.2.8"
   license ""
 
   def install
